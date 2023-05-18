@@ -1,4 +1,4 @@
-unity3d-multiplayer-example-2
+unity3d-multiplayer
 =============================
 
 unity3d mulitplayer example C# scripts
